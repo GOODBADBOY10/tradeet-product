@@ -1,4 +1,4 @@
-#root {
+/* #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
@@ -39,4 +39,14 @@
 
 .read-the-docs {
   color: #888;
+} */
+
+.pop-up {
+  position: absolute;
+  transform: translate(-50%,-50%);
+  text-align: center;
+  left: 50%;
+  top: 50%;
+  height: 400px;
+  padding: 0 30px 30px;
 }
