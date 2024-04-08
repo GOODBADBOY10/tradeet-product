@@ -14,18 +14,6 @@ function App() {
   
   return (
     <>
-     {/* <Router>
-      <div className=''>
-        <Routes>
-          <Route path='/' element={<Fashion />} />
-          <Route path='/eachitem' element={<EachItem />} />
-          <Route path='/review' element={<Review />} />
-          <Route path='/women' element={<Women />} />
-          <Route path='/men' element={<Men />} />
-          <Route path='/kids' element={<Kids />} />
-        </Routes>
-      </div>
-     </Router> */}
      <Fashion />
     </>
   )
